@@ -1,0 +1,28 @@
+.main-footer{
+    color: rgb(188, 217, 221);
+    background-color: #DC143C;
+    padding-top:2em;
+    position: absolute;
+    margin-bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+ul.horizontal-list li {
+    display: inline-block;
+   
+    padding: 0 0.5rem;
+ 
+  }
+.seperator{
+  display:inline-block;
+    color: rgb(221, 188, 212);
+  
+    
+   
+}
+
+a {
+    color: rgb(150, 195, 225);
+    text-decoration: none;
+  }
+ 

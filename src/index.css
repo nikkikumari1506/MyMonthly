@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+  
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Outfit', sans-serif;
+  
+}
+
+body {
+
+  background: #fbd0d9;
+  
+}
+.btn{
+  margin-left: 10px;
+  background:  #d2143a;
+  color: rgb(255, 200, 200);
+  border-color: rgb(210, 22, 75);
+}
+
+.btn:hover{
+  background:rgb(212, 152, 167);
+  color: #d52b44;
+  transition: 0.3s;
+}
